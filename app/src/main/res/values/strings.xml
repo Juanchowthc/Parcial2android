@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appfactura</string>
+    <string name="textview">TextView</string>
+    <string name="Tienda_Juancho">Tienda Juancho</string>
+    <string name="tienda_musical">Tienda Musical</string>
+    <string name="comprar">Comprar</string>
+</resources>
